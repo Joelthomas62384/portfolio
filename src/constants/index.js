@@ -81,20 +81,36 @@ const technologies = [
     name: "django",
     icon: django,
   },
-
+  {
+    name: "typescript",
+    icon: typescript,
+  },
   {
     name: "React JS",
     icon: reactjs,
   },
-
+  {
+    name: "Redux Toolkit",
+    icon: redux,
+  },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
   
-
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
   
-
+  {
+    name: "git",
+    icon: git,
+  },
+  {
+    name: "figma",
+    icon: figma,
+  },
 
 ];
 
