@@ -10,19 +10,16 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
+
   mongodb,
   git,
   figma,
-  docker,
+
   meta,
   starbucks,
   tesla,
   shopify,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
+  
   python,
   django,
   railway,
@@ -68,10 +65,8 @@ const technologies = [
     name: "CSS 3",
     icon: css,
   },
-//   {
-//     name: "Python",
-//     icon: python,
-//   },
+ 
+
 {
     name: "Python",
     icon: python,
