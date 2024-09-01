@@ -10,7 +10,7 @@ const Tech = () => {
   // Filter technologies for mobile devices
   const filteredTechnologies = isPhone
     ? technologies.filter((tech) => 
-        ['Python', 'JavaScript', 'HTML', 'Tailwind CSS'].includes(tech.name)
+        ['Python', 'JavaScript', 'React JS', 'Tailwind CSS'].includes(tech.name)
       )
     : technologies;
 
