@@ -36,7 +36,7 @@ const Contact = () => {
         "service_bzumsmh",
         "template_93qc8j3",
         {
-          from_name: form.name + " - " + from.email,
+          from_name: form.name + " : " + from.email,
           from_email: form.email,
           to_name: "codewithjoe",
           to_email: "kattuparamban1103@gmail.com",
